@@ -1,0 +1,2 @@
+# seo-language
+SEO Language
